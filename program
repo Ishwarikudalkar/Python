@@ -1,0 +1,6 @@
+a=3
+print(a)
+d=4
+print(d)
+add=a+d
+print(add)
